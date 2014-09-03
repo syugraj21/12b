@@ -1,0 +1,96 @@
+3 10
+6 37
+8 65
+10 101
+14 197
+16 257
+17 290
+20 401
+22 485
+28 785
+36 1297
+40 1601
+44 1937
+47 2210
+48 2305
+49 2402
+51 2602
+52 2705
+60 3601
+61 3722
+66 4357
+69 4762
+70 4901
+73 5330
+74 5477
+78 6085
+79 6242
+80 6401
+82 6725
+85 7226
+
+key = 74 value=5477
+key = 55 not found
+key = 10 value=101
+key = 27 not found
+key = 11 not found
+key = 77 not found
+key = 56 not found
+key = 76 not found
+key = 20 value=401
+key = 74 value=5477
+key = 85 value=7226
+key = 67 not found
+key = 20 value=401
+key = 60 value=3601
+key = 75 not found
+key = 20 value=401
+key = 35 not found
+key = 87 not found
+key = 68 not found
+key = 4 not found
+key = 66 value=4357
+key = 35 not found
+key = 40 value=1601
+key = 15 not found
+key = 37 not found
+key = 84 not found
+key = 13 not found
+key = 79 value=6242
+key = 51 value=2602
+key = 47 value=2210
+
+key 19 not found
+pair (40, 1601) deleted
+pair (52, 2705) deleted
+key 7 not found
+key 54 not found
+key 64 not found
+pair (16, 257) deleted
+pair (3, 10) deleted
+key 50 not found
+pair (69, 4762) deleted
+pair (60, 3601) deleted
+key 25 not found
+key 27 not found
+key 7 not found
+key 13 not found
+pair (28, 785) deleted
+pair (70, 4901) deleted
+key 13 not found
+key 37 not found
+pair (52, 2705) deleted
+key 87 not found
+key 25 not found
+key 52 not found
+pair (61, 3722) deleted
+key 25 not found
+key 30 not found
+key 41 not found
+pair (3, 10) deleted
+pair (16, 257) deleted
+key 1 not found
+
+isEmpty(D) = false
+size(D) = 18
+isEmpty(D) = true

@@ -1,0 +1,156 @@
+100 10001
+200 40001
+101 10202
+201 40402
+202 40805
+102 10405
+103 10610
+104 10817
+205 42026
+5 26
+105 11026
+207 42850
+107 11450
+210 44101
+111 12322
+12 145
+213 45370
+114 12997
+115 13226
+219 47962
+119 14162
+21 442
+121 14642
+22 485
+222 49285
+223 49730
+23 530
+224 50177
+125 15626
+26 677
+126 15877
+227 51530
+128 16385
+28 785
+29 842
+130 16901
+32 1025
+233 54290
+234 54757
+134 17957
+236 55697
+237 56170
+138 19045
+238 56645
+41 1682
+243 59050
+43 1850
+143 20450
+44 1937
+144 20737
+145 21026
+45 2026
+147 21610
+148 21905
+249 62002
+150 22501
+151 22802
+52 2705
+157 24650
+257 66050
+258 66565
+58 3365
+158 24965
+259 67082
+260 67601
+62 3845
+263 69170
+63 3970
+265 70226
+167 27890
+168 28225
+169 28562
+70 4901
+270 72901
+271 73442
+272 73985
+273 74530
+274 75077
+174 30277
+277 76730
+78 6085
+178 31685
+80 6401
+281 78962
+182 33125
+282 79525
+284 80657
+85 7226
+285 81226
+287 82370
+288 82945
+290 84101
+91 8282
+291 84682
+193 37250
+96 9217
+196 38417
+97 9410
+297 88210
+299 89402
+
+key = 467 not found
+key = 398 not found
+key = 335 not found
+key = 33 not found
+key = 504 not found
+key = 332 not found
+key = 251 not found
+key = 437 not found
+key = 283 not found
+key = 380 not found
+key = 436 not found
+key = 302 not found
+key = 284 value=80657
+key = 530 not found
+key = 464 not found
+key = 350 not found
+key = 56 not found
+key = 133 not found
+key = 235 not found
+key = 574 not found
+
+pair (28, 785) deleted
+pair (148, 21905) deleted
+key 594 not found
+key 509 not found
+key 535 not found
+key 571 not found
+key 293 not found
+key 181 not found
+key 362 not found
+key 489 not found
+key 518 not found
+key 293 not found
+key 276 not found
+key 592 not found
+key 511 not found
+key 487 not found
+key 156 not found
+key 431 not found
+key 500 not found
+key 417 not found
+key 390 not found
+key 385 not found
+key 56 not found
+key 369 not found
+key 419 not found
+key 474 not found
+key 189 not found
+pair (210, 44101) deleted
+key 203 not found
+key 557 not found
+
+isEmpty(D) = false
+size(D) = 97
+isEmpty(D) = true
